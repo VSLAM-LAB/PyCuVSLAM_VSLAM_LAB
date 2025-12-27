@@ -1,0 +1,6 @@
+%YAML 1.2
+---
+cam_mono: rgb_0
+cam_rgbd: rgb_0
+cam_stereo: [rgb_0, rgb_1]
+imu: imu_0
